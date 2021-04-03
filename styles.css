@@ -1,0 +1,36 @@
+body {
+    font-family: 'futura';
+}
+.container {
+    margin-top: 10vh;
+}
+nav {
+    margin-bottom: 10px;
+}
+#data-sig {
+    margin-bottom: none;
+}
+#signature {
+    font-size: 9px;
+    margin-top: none;
+}
+#countryRow {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#stateRow {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#cityRow {
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+#dataDiv {
+    margin-top: 18px;
+}
+#map {
+    height: 300px;
+    width: 500px;
+}
